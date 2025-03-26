@@ -54,6 +54,12 @@ These features were computed for each of the 6 sensor channels.
 
 ---
 
-## 📁 File Structure
+## 📌 Future Work
+
+- Apply classification models (Random Forest, SVM, etc.) on extracted features.
+- Visualize feature importance using techniques like PCA or feature correlation heatmaps.
+- Extend to frequency-domain features for better accuracy.
+
+---
 
 
